@@ -2,4 +2,4 @@
 
 > This is bloc implementation using flutter bloc and bloc library.
 > It include the necessary examples like fetching data from remote and local cache.
-> especially thanks to [https://github.com/vandadnp]@vandadnp
+> especially thanks to [@vandadnp](https://github.com/vandadnp)
